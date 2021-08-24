@@ -1,3 +1,5 @@
+# MYSQL
+
 ## 데이터 조작
 
 ### SELECT
@@ -12,6 +14,8 @@ SELECT (DISTINCT) field1, ... , fieldn, 함수
   HAVING 'group by의 조건'
   ORDER BY 'field명, ....' (DESC)
   LIMIT '출력할 개수' OFFSET '몇번째 부터';
+  
+
 ```
 
 ```mysql
